@@ -1,8 +1,3 @@
-# Spatial Filtering, Gaussians, Edges, and Corners – Computer Vision Assignment
-
-Here’s a description you can use for your GitHub repository:
-
----
 
 # Spatial Filtering, Gaussians, Edges, and Corners – Computer Vision Assignment
 
